@@ -16,6 +16,6 @@ func main() {
 	if ordem_cres {
 		fmt.Println("Sua lista está em ordem crescente")
 	} else {
-		fmt.Print("Sua lista não está em ordem crescente")
+		fmt.Println("Sua lista não está em ordem crescente")
 	}
 }
